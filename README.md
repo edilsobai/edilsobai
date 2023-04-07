@@ -1,5 +1,4 @@
 
-## I'm a Full stack developer.
 ---
 ### Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000??style=flat-square&logo=JavaScript) 
